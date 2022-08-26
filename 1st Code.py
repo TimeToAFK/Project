@@ -1,1 +1,1 @@
-print("smart Time")
+print("smart smart Time")
